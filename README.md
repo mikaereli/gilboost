@@ -191,3 +191,7 @@ fn process_task(data: &[u8]) -> Vec<u8> {
 
 ## Лицензия
 MIT License
+
+
+## P.S.
+Сорян за некрасивую структуру - .gitignore игнорит меня а не файла :(
