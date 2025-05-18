@@ -1,5 +1,4 @@
 # GilBoost
-
 High-performance async framework for Python using Rust + Tokio. 
 
 ## Features
