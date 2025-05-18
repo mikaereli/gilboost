@@ -1,0 +1,8 @@
+[package]
+name = "gilboost-core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+pyo3 = { version = "0.25.0", features = ["extension-module"] }

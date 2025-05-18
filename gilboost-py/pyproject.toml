@@ -1,0 +1,14 @@
+[build-system]
+requires = ["maturin>=1.0", "setuptools"]
+build-backend = "maturin"
+
+[project]
+name = "gilboost"
+version = "0.1.0"
+authors = ["Minkail Tolabaev"]
+description = "GilBoost: High-performance concurrency framework for Python."
+readme = "README.md"
+license = "MIT"
+
+[tool.maturin]
+bindings = "pyo3"
