@@ -1,0 +1,14 @@
+/Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/deps/libpyo3_build_config-ac265028c1b7221c.rmeta: /Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/lib.rs /Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/errors.rs /Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/impl_.rs /Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/build/pyo3-build-config-0446125209d24d5b/out/pyo3-build-config-file.txt /Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/build/pyo3-build-config-0446125209d24d5b/out/pyo3-build-config.txt
+
+/Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/deps/libpyo3_build_config-ac265028c1b7221c.rlib: /Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/lib.rs /Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/errors.rs /Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/impl_.rs /Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/build/pyo3-build-config-0446125209d24d5b/out/pyo3-build-config-file.txt /Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/build/pyo3-build-config-0446125209d24d5b/out/pyo3-build-config.txt
+
+/Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/deps/pyo3_build_config-ac265028c1b7221c.d: /Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/lib.rs /Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/errors.rs /Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/impl_.rs /Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/build/pyo3-build-config-0446125209d24d5b/out/pyo3-build-config-file.txt /Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/build/pyo3-build-config-0446125209d24d5b/out/pyo3-build-config.txt
+
+/Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/lib.rs:
+/Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/errors.rs:
+/Users/minkailtolabaev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.21.2/src/impl_.rs:
+/Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/build/pyo3-build-config-0446125209d24d5b/out/pyo3-build-config-file.txt:
+/Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/build/pyo3-build-config-0446125209d24d5b/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.21.2
+# env-dep:OUT_DIR=/Users/minkailtolabaev/repo/gilboost/gilboost-core/target/debug/build/pyo3-build-config-0446125209d24d5b/out
